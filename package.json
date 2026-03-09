@@ -1,0 +1,13 @@
+{
+  "name": "@nirvanjain/preloader",
+  "version": "1.0.0",
+  "description": "Simple website preloader",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NirvanJain/PreLoader.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
