@@ -27,3 +27,11 @@ const preloader = require("preloader-nirvan");
 preloader();
 ```
 
+## NPM Package
+
+View on npm:
+
+https://www.npmjs.com/package/preloader-nirvan
+
+
+
