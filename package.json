@@ -1,13 +1,27 @@
 {
-  "name": "@nirvanjain/preloader",
+  "name": "preloader-nirvan",
   "version": "1.0.0",
-  "description": "Simple website preloader",
+  "description": "Lightweight JavaScript website preloader",
   "main": "script.js",
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/NirvanJain/PreLoader.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "keywords": [
+    "preloader",
+    "loader",
+    "javascript",
+    "website-loader",
+    "animation"
+  ],
+  "author": "Nirvan Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NirvanJain/PreLoader/issues"
+  },
+  "homepage": "https://github.com/NirvanJain/PreLoader#readme",
+  "scripts": {
+    "test": "echo \"No tests yet\""
   }
 }
